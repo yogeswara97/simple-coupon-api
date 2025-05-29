@@ -6,7 +6,7 @@ A lightweight Flask API for managing e-commerce promotion coupons. Admins create
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/coupon-promo-service.git
+   git clone https://github.com/yogeswara97/simlple-coupon-api.git
    cd coupon-promo-service
    ```
 2. Install dependencies:
