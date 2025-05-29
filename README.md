@@ -69,6 +69,12 @@ A lightweight Flask API for managing e-commerce promotion coupons. Admins create
     "reason": "Coupon expired"
   }
   ```
+  ```json
+  {
+    "valid": false,
+    "reason": "Usage limit reached",
+  }
+  ```
 
 ## Data Storage
 - Coupons stored locally in `coupons.json` as a JSON array.
