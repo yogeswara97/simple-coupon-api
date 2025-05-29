@@ -1,0 +1,26 @@
+[
+  {
+    "code": "NEWYEAR2025",
+    "discount_type": "percentage",
+    "value": 20,
+    "expires_at": "2025-12-31T23:59:59",
+    "usage_limit": 3,
+    "used": 2
+  },
+  {
+    "code": "FIXED10000",
+    "discount_type": "fixed",
+    "value": 10000,
+    "expires_at": "2025-12-31T23:59:59",
+    "usage_limit": 5,
+    "used": 5
+  },
+  {
+    "code": "SUMMER2025",
+    "discount_type": "percentage",
+    "value": 15,
+    "expires_at": "2025-08-31T23:59:59",
+    "usage_limit": 10,
+    "used": 0
+  }
+]
